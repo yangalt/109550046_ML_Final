@@ -33,7 +33,7 @@ You can download training models in github(model) and here:
 
 ## Results
 
-Our model achieves the following performance on :
+Our model achieves the following performance on Kaggle:
 
 |    Submission      |  Private score  |  Public Score  |
 | ------------------ |---------------- | -------------- |
