@@ -23,7 +23,7 @@ It will load the training model from my 109550046_Final_train.ipynb, and produce
 
 You can download training models in github(model) and here:
 
-- [My model]([https://drive.google.com/file/d/1LjcYAse3otPVcob4ixxsKgN7YgWHXVzU/view?usp=sharing])
+- [My model](https://drive.google.com/file/d/1LjcYAse3otPVcob4ixxsKgN7YgWHXVzU/view?usp=sharing)
 
 ## Results
 
