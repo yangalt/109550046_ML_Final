@@ -3,6 +3,7 @@
 ## Description
 
 Final project for Introduction to Machine Learning
+
 Train a ML model to predict product failures by Kaggle Tabular Playground Series - Aug 2022
 
 ## Requirements
